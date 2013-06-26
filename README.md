@@ -1,7 +1,7 @@
 Deploy-It
 =========
 
-A git and S3-based deployer for basic websites.
+A Git and S3-based deployer for basic websites.
 
 Installation
 ------------
